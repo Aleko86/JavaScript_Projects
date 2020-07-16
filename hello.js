@@ -5,7 +5,7 @@ function loadFunction(){
 function helloWorld(){             
     
     return 'Hello, World!'
-
+//itt vagyok
 }
 
     //1. függvény elnevezése: message
